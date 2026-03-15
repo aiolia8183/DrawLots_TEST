@@ -1,0 +1,5 @@
+{
+  "name": "Lucky Draw System",
+  "description": "A customizable lottery system with name upload, repeat settings, and draw history.",
+  "requestFramePermissions": []
+}
